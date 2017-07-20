@@ -1,0 +1,46 @@
+WIREFRAMES :
+
+NAVIGATION
+- navigation fixe, qui contient à gauche le logo (retravaillé) et le menu (burger pour mobile et tablette) : ACCUEIL/LES ATELIERS/LE BLOG/CONTACT
+
+PAGE D'ACCUEIL
+- carrousel de photographies du bâtiment (ou plan interactif avec portes ?) et texte de présentation qui présentent le lieu des écuries (histoire, description, information sur la prise de rdv,...)
+- boutons de navigations : 
+	- visiter les ateliers: envoie le public à la page des ateliers
+	- nous contacter: envoie le public à la page contact
+
+LES ATELIERS
+- texte de présentation des ateliers et des artistes, du collectif en introduction
+- vignettes cliquables pour chacun des ateliers et la salle d'exposition : les portes pour les ateliers d'artistes et le rectangle arrondi pour la salle d'exposition (reprise architecturale de la forme d'une des fenêtres)
+- après avoir cliqué : page de présentation par artiste :
+		- Prénom et nom, en entête, possibilité pour l'artiste d'ajouter du texte et des images (possibilité pour le public de les agrandir dans une pop-up ), et les url de ses sites perso/reseaux sociaux,...
+- possibilité pour le public de revenir à la mosaïque des icônes de porte en bas de page
+
+
+BLOG 
+- mosaïque des posts du blog réduits (ordre chronologique : les plus récents en haut de page)
+- système de pagination en bas de page
+- possibilité pour le public de les agrandir pour voir davantage de contenu dans une autre page (plus de photos et de texte)
+- possibilité pour le public de revenir à la mosaïque des posts en bas de page
+
+ARCHIVES
+- hièrarchisées par liste d'années (image en fond?) où l'utilisateur peut cliquer pour en voir plus
+- système de pagination en bas de page
+- après avoir cliqué :
+	- mosaïque des posts d'archive réduits (ordre chronologique : les plus récents en haut de page)
+	- possibilité pour le public de les agrandir pour voir davantage de contenu dans une autre page (plus de photos et de texte)
+	- possibilité pour le public de revenir à la mosaïque des posts en bas de page
+
+CALENDRIER
+- mosaïque de dates d'évenements cliquables (dates et titres)
+- système de pagination en bas de page
+- après avoir cliqué :
+	- système de pop-up qui s'ouvre pour davantage d'informations : une photo et plus de texte
+
+CONTACT 
+- introduction de texte : rappel de la prise de RDV
+- formulaire de contact
+- map de localisation des Écuries
+- informations : adresse/tel./mail en bas de page
+
+- FOOTER : contient les logos des sponsors ? les soutiens financiers ? rappel des info des ecuries ?
